@@ -1,0 +1,26 @@
+R version 4.1.2 (2021-11-01)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS 13.7
+
+Matrix products: default
+LAPACK: /Library/Frameworks/R.framework/Versions/4.1/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] randomForest_4.7-1 ranger_0.13.1      e1071_1.7-9        caret_6.0-91       lattice_0.20-45    FSA_0.9.3          RColorBrewer_1.1-2 pheatmap_1.0.12    ggplot2_3.4.2     
+[10] beeswarm_0.4.0     dplyr_1.0.8       
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.1.2     purrr_0.3.4          reshape2_1.4.4       listenv_0.8.0        splines_4.1.2        colorspace_2.0-3     vctrs_0.6.5          generics_0.1.2      
+ [9] stats4_4.1.2         survival_3.3-1       prodlim_2019.11.13   rlang_1.1.0          ModelMetrics_1.2.2.2 pillar_1.10.1        glue_1.6.2           withr_2.5.0         
+[17] DBI_1.1.2            foreach_1.5.2        lifecycle_1.0.3      plyr_1.8.6           stringr_1.4.0        lava_1.6.10          timeDate_3043.102    munsell_0.5.0       
+[25] gtable_0.3.0         future_1.24.0        recipes_0.2.0        codetools_0.2-18     labeling_0.4.2       parallel_4.1.2       class_7.3-20         Rcpp_1.0.8.3        
+[33] scales_1.2.1         ipred_0.9-12         farver_2.1.0         parallelly_1.30.0    digest_0.6.29        stringi_1.7.6        grid_4.1.2           hardhat_0.2.0       
+[41] cli_3.6.3            tools_4.1.2          magrittr_2.0.2       proxy_0.4-26         tibble_3.2.1         crayon_1.5.0         future.apply_1.8.1   pkgconfig_2.0.3     
+[49] MASS_7.3-55          Matrix_1.5-1         data.table_1.14.2    pROC_1.18.0          lubridate_1.8.0      gower_1.0.0          assertthat_0.2.1     rstudioapi_0.13     
+[57] iterators_1.0.14     R6_2.5.1             globals_0.14.0       rpart_4.1.16         nnet_7.3-17          nlme_3.1-155         compiler_4.1.2      

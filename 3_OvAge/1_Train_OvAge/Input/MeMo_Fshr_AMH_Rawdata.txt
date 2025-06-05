@@ -1,0 +1,16 @@
+Sample_ID	Concentration	Hormone	Mouse_ID	Age	Genotype	Age_cat
+290	158.34	FSH	Fshr_74	9m	het	old
+291	117.56	FSH	Fshr_75	9m	wt	old
+292	95.70	FSH	Fshr_77	9m	wt	old
+293	69.84	FSH	Fshr_78	9m	wt	old
+294	107.42	FSH	Fshr_1106	9m	het	old
+295	55.31	FSH	Fshr_1107	9m	het	old
+296	187.31	FSH	Fshr_1146	7m	wt	old
+297	177.47	FSH	Fshr_1147	7m	het	old
+298	137.73	FSH	Fshr_1438	4m	het	young
+299	239.80	FSH	Fshr_1439	4m	het	young
+300	136.70	FSH	Fshr_1443	4m	wt	young
+301	149.97	FSH	Fshr_1444	4m	wt	young
+302	199.00	FSH	Fshr_1451	4m	wt	young
+303	100.30	FSH	Fshr_1454	4m	het	young
+304	138.44	FSH	Fshr_1457	4m	wt	young

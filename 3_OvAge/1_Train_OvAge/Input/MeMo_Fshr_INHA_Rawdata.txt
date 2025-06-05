@@ -1,0 +1,16 @@
+Sample_ID	Concentration	Hormone	Mouse_ID	Age	Genotype	Age_cat
+290	724.5	INHA	Fshr_74	9m	het	old
+291	148.9	INHA	Fshr_75	9m	wt	old
+292	950.0	INHA	Fshr_77	9m	wt	old
+293	441.4	INHA	Fshr_78	9m	wt	old
+294	190.6	INHA	Fshr_1106	9m	het	old
+295	289.6	INHA	Fshr_1107	9m	het	old
+296	843.3	INHA	Fshr_1146	7m	wt	old
+297	274.0	INHA	Fshr_1147	7m	het	old
+298	429.0	INHA	Fshr_1438	4m	het	young
+299	675.4	INHA	Fshr_1439	4m	het	young
+300	116.8	INHA	Fshr_1443	4m	wt	young
+301	640.9	INHA	Fshr_1444	4m	wt	young
+302	113.6	INHA	Fshr_1451	4m	wt	young
+303	412.1	INHA	Fshr_1454	4m	het	young
+304	522.9	INHA	Fshr_1457	4m	wt	young

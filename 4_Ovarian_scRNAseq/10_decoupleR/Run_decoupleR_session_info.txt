@@ -1,0 +1,33 @@
+R version 4.4.1 (2024-06-14)
+Platform: aarch64-apple-darwin20
+Running under: macOS 15.3.1
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/Los_Angeles
+tzcode source: internal
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] circlize_0.4.16       ComplexHeatmap_2.21.1 ggplot2_3.5.1         tibble_3.2.1          tidyr_1.3.1           dplyr_1.1.4          
+[7] OmnipathR_3.12.4      decoupleR_2.10.0     
+
+loaded via a namespace (and not attached):
+ [1] shape_1.4.6.1       gtable_0.3.6        rjson_0.2.23        xfun_0.48           GlobalOptions_0.1.2 lattice_0.22-6      tzdb_0.4.0         
+ [8] vctrs_0.6.5         tools_4.4.1         generics_0.1.3      stats4_4.4.1        curl_5.2.3          parallel_4.4.1      fansi_1.0.6        
+[15] cluster_2.1.6       pkgconfig_2.0.3     Matrix_1.7-0        checkmate_2.3.2     RColorBrewer_1.1-3  S4Vectors_0.42.1    readxl_1.4.3       
+[22] lifecycle_1.0.4     compiler_4.4.1      stringr_1.5.1       progress_1.2.3      munsell_0.5.1       codetools_0.2-20    clue_0.3-65        
+[29] htmltools_0.5.8.1   yaml_2.3.10         later_1.3.2         pillar_1.9.0        crayon_1.5.3        BiocParallel_1.38.0 iterators_1.0.14   
+[36] foreach_1.5.2       parallelly_1.38.0   tidyselect_1.2.1    rvest_1.0.4         digest_0.6.37       stringi_1.8.4       purrr_1.0.2        
+[43] fastmap_1.2.0       colorspace_2.1-1    cli_3.6.3           logger_0.4.0        magrittr_2.0.3      utf8_1.2.4          readr_2.1.5        
+[50] withr_3.0.2         prettyunits_1.2.0   scales_1.3.0        backports_1.5.0     rappdirs_0.3.3      lubridate_1.9.3     timechange_0.3.0   
+[57] rmarkdown_2.28      httr_1.4.7          matrixStats_1.4.1   igraph_2.0.3        cellranger_1.1.0    GetoptLong_1.0.5    png_0.1-8          
+[64] hms_1.1.3           evaluate_1.0.1      knitr_1.48          IRanges_2.38.1      doParallel_1.0.17   rlang_1.1.4         Rcpp_1.0.13-1      
+[71] glue_1.8.0          xml2_1.3.6          BiocGenerics_0.50.0 rstudioapi_0.16.0   jsonlite_1.8.9      R6_2.5.1           
