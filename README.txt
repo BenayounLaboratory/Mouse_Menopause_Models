@@ -8,8 +8,9 @@ Minhoo Kim, Rajyk Bhala, Justin Wang, Ryan J. Lu, Evelyn H. Lee, Julio L. Alvare
 "Systematic characterization of mouse menopause models reveals distinct aging trajectories and molecular signatures of ovarian decline."
 
 The code is arranged by experiment/analysis:
-  # 1_Ovarian_health_index	: see README_1_Ovarian_health_index.txt
+  # 1_Ovarian_health_index    	: see README_1_Ovarian_health_index.txt
   # 2_Foxl2_fertility         	: see README_2_Foxl2_fertility.txt
-  # 3_OvAge	                : see README_3_OvAge.txt
+  # 3_OvAge	                    : see README_3_OvAge.txt
   # 4_Ovarian_scRNAseq	        : see README_4_Ovarian_scRNAseq.txt
   # 5_RNA_scope                 : see README_5_RNAscope.txt
+  # 6_PCA_follicle_and_serum    : see README_6_PCA_follicle_and_serum.txt
